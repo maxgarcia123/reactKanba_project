@@ -1,2 +1,2 @@
 # reactKanba_project
-projeto para aprender a utlizaçao do reeact junto com Bootstrap 4
+project for learn to use BootStrap4 in application with React.
